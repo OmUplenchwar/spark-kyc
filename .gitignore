@@ -1,0 +1,19 @@
+﻿elliptic/
+*.zip
+kaggle.json
+.ipynb_checkpoints/
+SPARK_KYC_Colab_backup.ipynb
+__pycache__/
+elliptic/
+*.zip
+kaggle.json
+.ipynb_checkpoints/
+*Backup*.ipynb
+__pycache__/
+*.pdf
+*.bat
+Decentralized KYC novel method.md
+SPARK_KYC_Project_Explanation_for_Teacher.md
+spark_kyc_results.png
+table7_risk_models.csv
+table8_head_to_head.csv
