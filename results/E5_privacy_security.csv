@@ -3,5 +3,5 @@ Raw PII attributes disclosed per verification,all of A_u (I_e=0.20 reported),0 (
 "Information revealed (bits, upper bound)",~214,7.0
 Cross-verifier linkability (colluding verifiers),1.00 (same DID),"0.017 empirical, 0.016 theoretical (=1/K); shared public values: 0"
 Sybil double-registration detected,heuristic score Psi (no per-request test),1/1; honest first-time accepted 10/10
-Revocation,on-chain oracle write per credential,"1 revoked in 7 ms, blocked=True, 1 root/epoch"
+Revocation,on-chain oracle write per credential,"1 revoked in 19 ms, blocked=True, 1 root/epoch"
 "Illicit users admitted (of 1,000)","{'illicit_admitted': 14, 'licit_rejected_for_risk': 134, 'illicit_total': 59}","{'illicit_admitted': 13, 'licit_rejected_for_risk': 10, 'illicit_total': 59}"
