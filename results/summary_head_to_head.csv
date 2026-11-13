@@ -1,8 +1,8 @@
 Metric,Arshad et al. 2026,SPARK-KYC
-Verification time,12.5 s (reported),"281 ms verify, 478 ms prove"
+Verification time,12.5 s (reported),"184 ms verify, 309 ms prove"
 "Gas / user (1,000 users)","244,120 (model)","1,381 (optimistic)"
-Latency @1000 req.,48.5 s (reported),35.6 s
+Latency @1000 req.,48.5 s (reported),23.3 s
 PII exposure I_e,0.20,0.00
 Linkability,1.00,~1/64
-Illicit F1 (risk),0.360 (linear),0.794 (RF)
+Illicit F1 (risk),0.361 (linear),0.788 (RF)
 Trusted setup,Yes (Groth16),No
